@@ -6,20 +6,18 @@
 
 
 
+<h4> First go to </h4> 
 
- First go to 
-    ```bash
+```bash
     about:config
 ```
 And Accept the risk and search and inable the below preferences
 
-
-```
 ```bash
    toolkit.legacyUserProfileCustomizations.stylesheets
 ```
 ```bash
-layers.acceleration.force-enabled
+   layers.acceleration.force-enabled
 ```
 ```bash
     gfx.webrender.all
@@ -35,24 +33,13 @@ layers.acceleration.force-enabled
 ```
 
 
-
-
-    toolkit.legacyUserProfileCustomizations.stylesheets
-    layers.acceleration.force-enabled
-    gfx.webrender.all
-    svg.context-properties.content.enabled
-    tabmanager
-    browser.compactmode.show
-
-
-
-go to 
+<h4>go to</h4> 
 ```bash
 about:support
 ```
-and open profile folder
-and copy paste the chrome folder and js file (if have any)
 
+<h4>and open profile folder
+and copy paste the chrome folder and js file (if have any)</h4> 
 
 
 for theme go to 
